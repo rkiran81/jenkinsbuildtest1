@@ -56,6 +56,7 @@
 		</plugins>
 	</build>
 	
+	<!-- 
 	<repositories>
         <repository>
             <id>myMavenRepoRead</id>
@@ -73,5 +74,5 @@
             <url>https://mymavenrepo.com/repo/ukk64NlMgow12CMAhVb0/</url>
         </snapshotRepository>
     </distributionManagement>
-
+ -->
 </project>
