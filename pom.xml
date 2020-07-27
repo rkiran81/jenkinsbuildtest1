@@ -56,23 +56,22 @@
 		</plugins>
 	</build>
 	
-	<!-- 
 	<repositories>
         <repository>
-            <id>myMavenRepoRead</id>
+            <id>myMavenRepo.read</id>
             <url>https://mymavenrepo.com/repo/7l2aMl0zjYgfMvi5XwCU/</url>
         </repository>
     </repositories>
 	
 	<distributionManagement>
         <repository>
-            <id>myMavenRepoWrite</id>
+            <id>myMavenRepo.write</id>
             <url>https://mymavenrepo.com/repo/ukk64NlMgow12CMAhVb0/</url>
         </repository>
         <snapshotRepository>
-        	<id>myMavenRepoWrite</id>
+        	<id>myMavenRepo.write</id>
             <url>https://mymavenrepo.com/repo/ukk64NlMgow12CMAhVb0/</url>
         </snapshotRepository>
     </distributionManagement>
- -->
+
 </project>
